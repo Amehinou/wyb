@@ -4,3 +4,12 @@ conflict 冲突
 encapsulation 封包
 split horizon 水平分割
 preempt 取代
+idle 空闲
+
+
+TACACS+ 终端访问控制器访问控制系统
+deploy 部署
+PAgP 端口聚集协议
+STP 生成树协议
+VTP VLAN中继协议
+

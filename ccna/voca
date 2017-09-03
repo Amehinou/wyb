@@ -25,7 +25,8 @@ MSTP多生成树协议
 LLDP链路层发现协议
 FHRP首跳冗余性协议
 RSMLT Routed Split Multi-Link Trunking
-
+CHAP询问握手认证协议
+DMVPN动态多点VPN
 
 
 
@@ -54,4 +55,5 @@ VTP VLAN中继协议
 93 no ip routing
 94 RSTP端口
 102
+115
 
